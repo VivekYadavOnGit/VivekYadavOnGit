@@ -59,7 +59,7 @@ Software Developer Intern @ <b>Ethereum Infotech LLP</b> 🚀
 
 ### 🌍 Smart AI Trip Planner – **Planora**
 🔗 **Live:** https://planoraio.vercel.app/  
-🔗 **Repo:** https://github.com/VivekYadavOnGit/planora  
+🔗 **Repo:** https://github.com/VivekYadavOnGit/Smart-AI-Trip-Planner
 
 - AI-generated personalized travel itineraries
 - Integrated Google Maps, Places API & OpenAI
